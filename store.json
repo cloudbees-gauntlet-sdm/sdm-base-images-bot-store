@@ -1,0 +1,5 @@
+{
+  "images": {
+    "gcr.io/sdm-infra-management/cloudbees/base-bats": "1.16"
+  }
+}
