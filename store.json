@@ -1,7 +1,7 @@
 {
   "images": {
     "gcr.io/sdm-infra-management/cloudbees/base-bats": "1.24",
-    "gcr.io/sdm-infra-management/cloudbees/base-java": "1.22",
+    "gcr.io/sdm-infra-management/cloudbees/base-java": "1.24",
     "gcr.io/sdm-infra-management/cloudbees/base-quarkus": "1.22",
     "gcr.io/sdm-infra-management/cloudbees/build-bats": "1.22",
     "gcr.io/sdm-infra-management/cloudbees/build-quarkus-main": "1.22",
