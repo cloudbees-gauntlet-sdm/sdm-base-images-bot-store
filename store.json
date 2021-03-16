@@ -3,7 +3,7 @@
     "gcr.io/sdm-infra-management/cloudbees/base-bats": "1.38",
     "gcr.io/sdm-infra-management/cloudbees/base-java": "1.38",
     "gcr.io/sdm-infra-management/cloudbees/base-quarkus": "1.38",
-    "gcr.io/sdm-infra-management/cloudbees/build-bats": "1.36.1",
+    "gcr.io/sdm-infra-management/cloudbees/build-bats": "1.38",
     "gcr.io/sdm-infra-management/cloudbees/build-quarkus-main": "1.36.1",
     "gcr.io/sdm-infra-management/cloudbees/build-quarkus-webapp": "1.36.1",
     "gcr.io/sdm-infra-management/cloudbees/base-bats:1.16": "gcr.io/sdm-infra-management/cloudbees/base-bats:1.16",
