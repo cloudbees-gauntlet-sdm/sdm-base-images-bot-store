@@ -8,6 +8,7 @@
     "gcr.io/sdm-infra-management/cloudbees/build-quarkus-webapp": "1.38",
     "gcr.io/sdm-infra-management/cloudbees/base-bats:1.16": "gcr.io/sdm-infra-management/cloudbees/base-bats:1.16",
     "gcr.io/sdm-infra-management/cloudbees/base-java:1.16": "gcr.io/sdm-infra-management/cloudbees/base-java:1.16",
-    "gcr.io/sdm-infra-management/cloudbees/sdm-flink-deployer": "1.271.0"
+    "gcr.io/sdm-infra-management/cloudbees/sdm-flink-deployer": "1.271.0",
+    "gcr.io/sdm-public/cicd/maven-adoptopenjdk11-git": "1.36.0"
   }
 }
